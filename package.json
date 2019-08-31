@@ -1,0 +1,24 @@
+{
+  "name": "viri-discordbot",
+  "version": "1.0.0",
+  "description": "A Discord Bot Based on Viri. Check My Github for More Info!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironwolf4523/Viri.git"
+  },
+  "author": "IronWolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironwolf4523/Viri/issues"
+  },
+  "homepage": "https://github.com/ironwolf4523/Viri#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.1.0"
+  }
+}
