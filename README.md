@@ -23,5 +23,5 @@ Bot_Token=<Your Bot Token Goes Here>
 As i don't have rights to the song, i don't want to include the songs due to the copyright risk!
 That means your going to have to source the audio your self, the location of the audio is 
 ```bash
-/your download folder/bots/Viri/audio/Song01.mp3
+/audio/Song01.mp3
 ```
