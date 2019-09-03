@@ -20,8 +20,4 @@ To use dotenv you need to open the .env file and add your bot token from the [Di
 Bot_Token=<Your Bot Token Goes Here>
 ```
 ## The Music 
-As i don't have rights to the song, i don't want to include the songs due to the copyright risk!
-That means your going to have to source the audio your self, the location of the audio is 
-```bash
-/audio/Song01.mp3
-```
+If Jake wants me to i can take the music out, and if i have to i'll post how to add the music into the folder.
